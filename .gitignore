@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Jetbrains 系列 IDE 的配置目录
+.idea/
+
+# 忽略 checkpoints 文件夹
+checkpoints/
+
+# 忽略 wandb 文件夹
+wandb/
